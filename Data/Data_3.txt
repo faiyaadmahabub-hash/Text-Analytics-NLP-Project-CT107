@@ -1,0 +1,9 @@
+Training Corpus
+~~~~~~~~~~~~~
+<s> He read a book </s>
+<s> I read a different book </s>
+<s> He read a book by Danielle </s>
+
+Calculate sentence probability for the following sentence
+~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~
+<s> I read a different book by Danielle </s>
