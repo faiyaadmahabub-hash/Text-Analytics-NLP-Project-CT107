@@ -36,7 +36,7 @@ These tuned results are taken from saved notebook outputs, **not rerun here**:
 | Complement Naive Bayes | 0.8774 | 0.7133 |
 | Logistic Regression | Not retained | Not retained |
 
-The Logistic Regression notebook defines its workflow but retains no executed metric outputs. Neutral recall remains low in the recorded tuned results (0.31?0.39). Different model settings and CV fold counts mean the comparison is not a strictly matched benchmark.
+The Logistic Regression notebook defines its workflow but retains no executed metric outputs. Neutral recall remains low in the recorded tuned results (0.31-0.39). Different model settings and CV fold counts mean the comparison is not a strictly matched benchmark.
 
 ## Run the lightweight evaluation
 
