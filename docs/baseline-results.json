@@ -1,0 +1,44 @@
+{
+  "date": "2026-10-17",
+  "python": "3.10.9",
+  "sklearn": "1.7.2",
+  "model": "Original ComplementNB baseline cell; no tuning",
+  "train_rows": 107768,
+  "test_rows": 26945,
+  "test_rows_with_text_seen_in_train": 11258,
+  "accuracy": 0.8617183150862869,
+  "macro_f1": 0.701451087673617,
+  "classification_report": {
+    "negative": {
+      "precision": 0.6833078621158092,
+      "recall": 0.8130935542533845,
+      "f1-score": 0.7425724303377007,
+      "support": 4949.0
+    },
+    "neutral": {
+      "precision": 0.4642335766423358,
+      "recall": 0.412987012987013,
+      "f1-score": 0.43711340206185567,
+      "support": 1540.0
+    },
+    "positive": {
+      "precision": 0.9427511937417454,
+      "recall": 0.9072643723113023,
+      "f1-score": 0.9246674306212944,
+      "support": 20456.0
+    },
+    "accuracy": 0.8617183150862869,
+    "macro avg": {
+      "precision": 0.6967642108332969,
+      "recall": 0.7111149798505666,
+      "f1-score": 0.701451087673617,
+      "support": 26945.0
+    },
+    "weighted avg": {
+      "precision": 0.8677501850740947,
+      "recall": 0.8617183150862869,
+      "f1-score": 0.8633565618001758,
+      "support": 26945.0
+    }
+  }
+}
